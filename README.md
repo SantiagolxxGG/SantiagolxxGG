@@ -41,3 +41,4 @@
 ###
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1224181541127717034)](https://discord.com/users/1224181541127717034)
+![recently played](https://spotify-recently-played-readme.vercel.app/api?user=314odwwq2bdt3i7wtiu7zwdxz33y)
